@@ -1,0 +1,40 @@
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.csproj.AssemblyReference.cache
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.dll.config
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.AssemblyInfoInputs.cache
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.AssemblyInfo.cs
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.csproj.CoreCompileInputs.cache
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\LivingDoc.Dtos.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\LivingDoc.SpecFlowPlugin.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\nunit.engine.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Assessment Aautomation Test.dll.config
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Assessment Aautomation Test.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Assessment Aautomation Test.pdb
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\BoDi.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\FluentAssertions.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Gherkin.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\nunit.framework.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\nunit.framework.legacy.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\SpecFlow.Internal.Json.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessme.403A500F.Up2Date
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\obj\Debug\net48\Assessment Aautomation Test.pdb
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\selenium-manager\linux\selenium-manager
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\selenium-manager\macos\selenium-manager
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\selenium-manager\windows\selenium-manager.exe
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Dynamitey.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\WebDriver.dll
+C:\Users\araza\source\repos\Assessment Aautomation Test\Assessment Aautomation Test\bin\Debug\net48\SpecFlow.Assist.Dynamic.dll
