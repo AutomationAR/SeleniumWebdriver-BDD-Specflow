@@ -1,6 +1,6 @@
 ﻿Feature: Cart Validation
 
-@mamazon
+@amazon
 Scenario: validate item and amount 
 	Given navigate to amazon as an unregistered user
 	When Search for TP-link

@@ -75,11 +75,11 @@ namespace Assessment_Aautomation_Test.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("validate item and amount")]
-        [NUnit.Framework.CategoryAttribute("mamazon")]
+        [NUnit.Framework.CategoryAttribute("amazon")]
         public void ValidateItemAndAmount()
         {
             string[] tagsOfScenario = new string[] {
-                    "mamazon"};
+                    "amazon"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("validate item and amount", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 4

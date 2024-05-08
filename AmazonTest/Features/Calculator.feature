@@ -1,6 +1,6 @@
 ﻿Feature: Cart Validation
 
-@mamazon
+@amazon
 Scenario: validate item and amount 
 	Given navigate to the amazon as an unregistered user
 	| Browser | URL                     | OS         |
